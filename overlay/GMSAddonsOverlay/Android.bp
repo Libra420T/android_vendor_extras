@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "GMSAddonsOverlay",
+    product_specific: true,
+}
